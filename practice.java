@@ -1,5 +1,5 @@
 public class practice {
     public static void main(String[] args) {
-        System.out.println("Hola mi amigo."); 
+        System.out.println("I can do this in my sleep."); 
     }
 }
